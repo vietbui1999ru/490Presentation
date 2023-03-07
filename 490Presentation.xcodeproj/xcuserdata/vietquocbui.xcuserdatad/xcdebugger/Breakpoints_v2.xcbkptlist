@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B5DAC9A-EA99-449C-89BC-CE95EC86A730"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5363B56E-B41E-40C9-A3BF-697357FB7F78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "490Presentation/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95C97E7C-8F57-40AE-BF1B-2458D643B09C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "490Presentation/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "95C97E7C-8F57-40AE-BF1B-2458D643B09C - a03d4fcaf45b9f24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_90Presentation.AppDelegate.__allocating_init() -&gt; _90Presentation.AppDelegate"
+                  moduleName = "490Presentation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vietquocbui/Desktop/repos/XCode/vietbui1999ru/ios/490Presentation/490Presentation/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "95C97E7C-8F57-40AE-BF1B-2458D643B09C - 5a77cdfa36fa1963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_90Presentation.AppDelegate.init() -&gt; _90Presentation.AppDelegate"
+                  moduleName = "490Presentation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vietquocbui/Desktop/repos/XCode/vietbui1999ru/ios/490Presentation/490Presentation/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "95C97E7C-8F57-40AE-BF1B-2458D643B09C - 47455663c977d31c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_90Presentation.AppDelegate.__deallocating_deinit"
+                  moduleName = "490Presentation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vietquocbui/Desktop/repos/XCode/vietbui1999ru/ios/490Presentation/490Presentation/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "95C97E7C-8F57-40AE-BF1B-2458D643B09C - 127fb9c6431e1e2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "490Presentation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vietquocbui/Desktop/repos/XCode/vietbui1999ru/ios/490Presentation/490Presentation/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
